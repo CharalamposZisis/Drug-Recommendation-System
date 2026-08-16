@@ -31,10 +31,12 @@ Ranking
     ↓
 Gradio Results
 
+## Example
 
-## Example of Drug information retrieval system.
-The question i was asking was about the depression and what are the best pills to take.
+The following screenshot shows an example of the drug information retrieval system.
 
-![Drug Recommendation System](/home/charis/Desktop/Projects/Drug-Recommendation-System/example_of_text_classif.png)
+The query used in this example was related to **depression** and asked which drugs were the most relevant based on the available reviews in the dataset.
+
+![Drug Recommendation System](example_of_text_classif.png)
 
 Feel free to play with it !! 
