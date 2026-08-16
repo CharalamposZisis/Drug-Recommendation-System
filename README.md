@@ -37,6 +37,8 @@ The following screenshot shows an example of the drug information retrieval syst
 
 The query used in this example was related to **depression** and asked which drugs were the most relevant based on the available reviews in the dataset.
 
-![Drug Recommendation System](example_of_text_classif.png)
+
+![Drug Recommendation System](./example_of_text_classif.png)
+
 
 Feel free to play with it !! 
