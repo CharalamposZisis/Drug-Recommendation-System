@@ -35,6 +35,6 @@ Gradio Results
 ## Example of Drug information retrieval system.
 The question i was asking was about the depression and what are the best pills to take.
 
-file:///home/charis/Pictures/Screenshots/Screenshot%20from%202026-08-16%2018-30-53.png
+![Drug Recommendation System](example_of_text_classif.png)
 
 Feel free to play with it !! 
