@@ -31,7 +31,7 @@ Ranking
     ↓
 Gradio Results
 
-## Example
+### Example
 
 The following screenshot shows an example of the drug information retrieval system.
 
