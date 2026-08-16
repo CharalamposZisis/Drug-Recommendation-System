@@ -38,7 +38,7 @@ The following screenshot shows an example of the drug information retrieval syst
 The query used in this example was related to **depression** and asked which drugs were the most relevant based on the available reviews in the dataset.
 
 
-![plot]([https://github.com/CharalamposZisis/Drug-Recommendation-System/blob/main/example_of_text_classif.png?raw=true](https://github.com/CharalamposZisis/Drug-Recommendation-System/blob/815b106d3d6bd353f72ef9a56d7081fe0b258bfe/example_of_text_classif.png))
+[![image alt](https://github.com/CharalamposZisis/Drug-Recommendation-System/blob/815b106d3d6bd353f72ef9a56d7081fe0b258bfe/example_of_text_classif.png)
 
 
 Feel free to play with it !! 
